@@ -1,0 +1,9 @@
+{
+    "applications": {
+        "Customer-Display": {
+            "additionalInformation": "SAPUI5.Component=projectcustomer",
+            "applicationType": "URL",
+            "url": "../resources/projectcustomer"
+        }
+    }
+}
